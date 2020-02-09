@@ -8,6 +8,7 @@
 //complexity of this whole program is N*O(1)
 
 //Example 2:
-// y = 5 + (15 * 20);
-// for x in range(0,n):
-//  print x;
+// y = 5 + (15 * 20); ->O(1)
+// for x in range(0,n): ->O(N)
+//  print x; ->O(1)
+//total time = O(1)+O(N) = O(N)
