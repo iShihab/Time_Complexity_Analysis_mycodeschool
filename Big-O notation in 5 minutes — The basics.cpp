@@ -2,6 +2,12 @@
 // ignore low order terms when higher order is available in the program
 // O(1) Big oh of one which is also constant time
 
+//Example One:
 // for x in range(0,n):
 //     print x; // complexity of this line is O(1)
 //complexity of this whole program is N*O(1)
+
+//Example 2:
+// y = 5 + (15 * 20);
+// for x in range(0,n):
+//  print x;
