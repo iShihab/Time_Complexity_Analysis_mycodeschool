@@ -14,6 +14,7 @@
 //total time = O(1)+O(N) = O(N)
 
 //Example 3: Quadratic(দ্বিঘাত) time
-// for x in range(0,n):
-//      for y in range(O,n):
+// for x in range(0,n): ->O(N)
+//      for y in range(O,n): ->O(N)
 //          print x*y; //O(1)
+// total time=(O(N)*O(N))+O(1) = O(N^2)
