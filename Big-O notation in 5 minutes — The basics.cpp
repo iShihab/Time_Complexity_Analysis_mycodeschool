@@ -18,3 +18,4 @@
 //      for y in range(O,n): ->O(N)
 //          print x*y; //O(1)
 // total time=(O(N)*O(N))+O(1) = O(N^2)
+// O(n!)>O(2^n)>O(n^2)>O(nlogn)>O(n)>O(logn)>O(1)
